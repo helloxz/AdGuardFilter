@@ -1,0 +1,12 @@
+#6vhao
+||kkcaicai.com^
+||6vhao.kkcaicai.com^
+||wang502.com^
+#google ad
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 tpc.googlesyndication.com
+||googletagservices.com^
+127.0.0.1 pagead2.googlesyndication.com
+#chinaz
+127.0.0.1 stats.chinaz.com
